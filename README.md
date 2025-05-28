@@ -15,5 +15,10 @@
 3. Unter "Settings > Pages" die Veröffentlichung aktivieren
 
 ## Projektstruktur
+📁 HybridSummarizer/
+├── index.html
+├── README.md
+└── 📁 assets/
+    └── icon-hybrid.PNG
 ## Lizenz
 MIT © 2025 – Nutzung erlaubt mit Quellenverweis
