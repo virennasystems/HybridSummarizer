@@ -15,3 +15,5 @@
 3. Unter "Settings > Pages" die Veröffentlichung aktivieren
 
 ## Projektstruktur
+## Lizenz
+MIT © 2025 – Nutzung erlaubt mit Quellenverweis
